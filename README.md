@@ -14,7 +14,7 @@ Initial repository setup
 Add assistant-generated draft with reflection note
 Add manually edited final version
 
-Video walkthrough: [link to be added]
+Video walkthrough: https://youtu.be/IbUp1Kp8N5E
 
 
 
